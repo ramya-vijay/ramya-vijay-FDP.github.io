@@ -11,4 +11,4 @@ This section can include:
 - Key tools explored  
 - Images, if needed  
 
-Stay tuned for updates!  
+👉 You can also check the **Feedback** section for exit ticket learnings.  
