@@ -1,0 +1,8 @@
+title: "Faculty Voyage in AI"
+description: "My GitHub Pages Repository"
+theme: minima
+
+# Navigation menu
+header_pages:
+  - index.md
+  - glimpse.md
