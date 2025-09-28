@@ -6,3 +6,4 @@ theme: minima
 header_pages:
   - index.md
   - glimpse.md
+  - feedback.md
